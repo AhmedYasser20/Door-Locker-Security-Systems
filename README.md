@@ -56,6 +56,7 @@ The system follows a specific sequence of steps:
 - The system then goes back to Step 2, displaying the main options.
 
 ## Driver and Hardware 
+![image](https://github.com/AhmedYasser20/Door-Locker-Security-Systems/assets/93765400/1fa202f2-ba4d-45af-9f90-16eee58480f3)
 
 The project uses several drivers and hardware components, including:
 
@@ -77,4 +78,5 @@ This repository contains two main code files for the HMI_ECU and CONTROL_ECU. Th
 - `CONTROL_ECU/main.c`: Contains the code for the Control ECU.
 
 ## ScreenShot
+![image](https://github.com/AhmedYasser20/Door-Locker-Security-Systems/assets/93765400/8efe7cb0-9cfa-4fa5-ad0d-522cd8a36e63)
 
